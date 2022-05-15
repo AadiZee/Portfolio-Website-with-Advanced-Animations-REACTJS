@@ -84,7 +84,7 @@ const Contact = () => {
           <br />
           Pakistan,
           <br />
-          Rawalpindi, <br /> Punjab
+          Punjab <br /> Rawalpindi,
           <br />
           <span>adnanzaib6@gmail.com</span>
         </div>

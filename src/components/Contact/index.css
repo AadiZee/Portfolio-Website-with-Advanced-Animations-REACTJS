@@ -83,7 +83,7 @@
 .info-map {
   position: absolute;
   background-color: #000;
-  top: 100px;
+  top: 50px;
   right: 16%;
   z-index: 999999;
   width: 310px;
